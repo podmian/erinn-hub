@@ -1,0 +1,15 @@
+{
+  "name": "erinn-hub",
+  "version": "0.0.1",
+  "description": "ErinnHub is a tool that automates birthday and anniversary reminders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
